@@ -1,3 +1,10 @@
+Written by Albion Fung
+A quick and dirty extension to make assignments in Kaplan dark mode.
+The super disgusting implementation is due to the spaghettiness of Kaplan web code
+as well as indeterminate loading time.
+If it doens't work, play around with the await sleep times with the comment "adjust here".
+Increase the number until the dark mode starts applying.
+
 You may freely distribute and use my code as long as your code is:
 - open source
 - credit me
