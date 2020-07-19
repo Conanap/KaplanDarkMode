@@ -1,0 +1,11 @@
+{
+    "name": "Kaplan Dark Mode",
+    "version": "1.0",
+    "description": "Enable custom dark mode for Kaplan's MCAT studying resources",
+    "content_scripts": [{
+        "matches": ["*://*.kaptest.com/assignment/*"],
+        "js": ["jquery.js", "background.js"]
+    }],
+    "permissions": ["activeTab"],
+    "manifest_version": 2
+}
