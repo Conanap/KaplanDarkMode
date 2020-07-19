@@ -1,4 +1,5 @@
-Written by Albion Fung
+Written by Albion Fung  
+
 A quick and dirty extension to make assignments in Kaplan dark mode.
 The super disgusting implementation is due to the spaghettiness of Kaplan web code
 as well as indeterminate loading time.
