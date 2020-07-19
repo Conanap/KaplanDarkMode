@@ -104,5 +104,7 @@ async function landing() {
     });
 };
 
-landing();
-checkAndApply();
+$(document).ready(function() {
+    landing();
+    checkAndApply();
+});
